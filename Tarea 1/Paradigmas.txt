@@ -1,0 +1,14 @@
+PROGRAMACION IMPERATIVA:
+Es programacion de bajo nivel donde el usuario interactua directamente
+con la memoria o recursos de la maquina.
+Ejemplo:
+Programas en pascal, C y Fortran.
+
+
+
+PROGRAMACION DECLARATIVA:
+Evitan que el usuario interactue con los recursos de la maquina, es
+programación de mas alto nivel.
+Ejemplo: 
+SQL,
+Programas en Prolog
